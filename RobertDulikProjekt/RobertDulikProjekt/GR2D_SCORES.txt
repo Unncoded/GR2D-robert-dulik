@@ -1,0 +1,3 @@
+NAME  |  TIME  |  DEATHS
+POLSLŒ | 0:33:7 | 2
+A | 0:52:1 | 8
