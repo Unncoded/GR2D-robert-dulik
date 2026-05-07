@@ -8,10 +8,10 @@ Przeciwnicy podświetlają się na chwilę przed strzałem, dając czas na reakc
 
 Gra obsługuje lokalną tablicę wyników, mierząc czas i zgony gracza.
 
-<img width="1379" height="811" alt="Zrzut ekranu 2026-05-06 202923" src="https://github.com/user-attachments/assets/8efbf8aa-3347-410d-beff-ff1c5455e166" />
+<img width="1385" height="787" alt="Zrzut ekranu 2026-05-07 104614" src="https://github.com/user-attachments/assets/aeeeb79e-9dce-410b-83c7-8cc3cc48b3e5" />
+
 <p></p>
 <p></p>
 <img width="1387" height="800" alt="Zrzut ekranu 2026-05-06 203010" src="https://github.com/user-attachments/assets/7e30f849-7add-4d29-8aea-fb14b2173be2" />
 <p></p>
 <p></p>
-<img width="1397" height="802" alt="Zrzut ekranu 2026-05-06 203003" src="https://github.com/user-attachments/assets/2968b08a-46d8-4365-8258-8914a6cda578" />
